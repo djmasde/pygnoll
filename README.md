@@ -51,10 +51,10 @@ $ python2 gnoll.py
 Las funcionalidades indicadas con * aún no están disponibles.
 
 * Se autoidentifica cuando entra al canal. *
-Responde de una agradable manera cada vez que le nombran.
+* Responde de una agradable manera cada vez que le nombran.
 * Se asegura de que todos/as los usuarios/as tengan voz. *
 * Saluda a ciertos/as usuarios/as cuando ingresan al canal. *
-Detecta malas palabras y advierte a el/la usuario/a que las emite.
+* Detecta malas palabras y advierte a el/la usuario/a que las emite.
 
 ## Comandos disponibles ##
 
