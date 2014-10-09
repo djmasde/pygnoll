@@ -1,0 +1,7 @@
+{
+    "servidor":   "irc.j03h.com",
+    "puerto":     6667,
+    "canal":      "#dot!",
+    "nick":       "Gnoll",
+    "reconexion": 8
+}

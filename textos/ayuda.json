@@ -1,0 +1,13 @@
+{
+	"comandos": "[!cuantos] [!sonando] [!hablaclaro sujeto] [url]",
+	"comandos_op": "[!salir] [!r]",
+	"ayuda": "Muestra una descripción de ayuda del comando indicado.",
+	"cuantos": "Indica cuantos ñuescuchan la radio en ese momento.",
+	"sonando": "Indica qué es lo que suena en la radio en ese momento.",
+	"hablaclaro": "Le da un amistoso saludo al sujeto indicado, quien debe ser un usuario/a presente en ese momento en el canal.",
+	"chucknorris": "Ayuda a difundir la palabra de La Gran Patada Giratoria.",
+	"url": "Devuelve el título de la página web indicada en la URL.",
+	"salir": "Termina la ejecución del bot.",
+	"r": "Detiene y reinicia la ejecución del bot, por el tiempo definido en la configuración.",
+        "sl": "Muestra frases celebres de Richard Stallman"
+}
