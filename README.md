@@ -13,11 +13,15 @@ para ello:
 
 En Debian y derivados:
 
-apt-get install python2-pip
+..
+#apt-get install python2-pip
+..
 
 luego:
 
+..
 #pip install irc
+..
 
 Si faltan mas cosas, ver el fichero requirements.txt
 - - -
