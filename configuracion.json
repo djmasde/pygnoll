@@ -1,7 +1,7 @@
 {
-    "servidor":   "irc.j03h.com",
+    "servidor":   "irc.radiognu.org",
     "puerto":     6667,
-    "canal":      "#dot!",
-    "nick":       "Gnoll",
+    "canal":      "#radiognu",
+    "nick":       "PyGnoll",
     "reconexion": 8
 }
